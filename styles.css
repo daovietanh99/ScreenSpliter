@@ -34,7 +34,7 @@ body, html {
     cursor: pointer;
     display: block;
     font-size: 24px;
-    color: white;
+    color: #eeeeee;
     text-shadow: 2px 2px #cccccc;
 }
 
@@ -63,6 +63,6 @@ body, html {
     cursor: pointer;
     font-size: 24px;
     display: none;
-    color: white;
+    color: #eeeeee;
     text-shadow: 2px 2px #cccccc;
 }
